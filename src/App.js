@@ -26,7 +26,7 @@ function App() {
             <p>
               <span>
                 Me chamo Rodrigo. Sou estudante do curso de engenharia de software na Universidade de Brasília.<br/>
-                Atualmente estuando desenvolvimento web Full Stack, as vezes gamer e músico nas horas vagas.
+                Atualmente estudando desenvolvimento web Full Stack e músico nas horas vagas.
               </span>
             </p>
           </div>
